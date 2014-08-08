@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/robinboehm/geku-dashboard/issues"
   },
-  "homepage": "https://github.com/robinboehm/geku-dashboard"
+  "homepage": "https://github.com/robinboehm/geku-dashboard",
+  "devDependencies": {
+    "node-webkit-builder": "^0.1.1"
+  }
 }
