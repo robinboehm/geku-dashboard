@@ -1,0 +1,19 @@
+{
+  "name": "geku-dashboard",
+  "version": "0.0.0",
+  "description": "geku-dashboard ==============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robinboehm/geku-dashboard.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robinboehm/geku-dashboard/issues"
+  },
+  "homepage": "https://github.com/robinboehm/geku-dashboard"
+}
